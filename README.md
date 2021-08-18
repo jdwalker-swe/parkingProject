@@ -10,7 +10,7 @@ shows customer registration while booking parking spot A1,A3,D1
 
 
 # "officer.png" 
-shows officers available parking spots to be put on hold. As stated, officers can only put spots on hold which are NOT in use. We see that spot A1,A3,D1 are missing from the officers list since they are in use from the customer. Officer then puts A2,E1,E2 spot on hold so it becomes unavailable to all customers.
+shows officers available parking spots to be put on hold. As stated, officers can only put spots on hold which are NOT in use. We see that spot A1,A3,D1 are missing from the officers modifiable list since they are in use from the customer. Officer then puts A2,E1,E2 spot on hold so it becomes unavailable to all customers.
 ![officer](https://user-images.githubusercontent.com/89156297/129955758-c70f146d-ea13-4a46-ad3f-989efe99b306.png)
 
 
